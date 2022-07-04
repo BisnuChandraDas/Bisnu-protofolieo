@@ -1,3 +1,37 @@
-p{
-    color: brown;
+Body {
+    font-family: 'Poppins', sans-serif;
+}
+
+h1 {
+    font-size: 50px;
+}
+
+.bisnu {
+    color: orange;
+}
+
+section {
+    display: flex;
+}
+
+.helf-width {
+    width: 50%;
+    padding: 3%;
+
+}
+
+.helf-width img {
+    width: 80%;
+
+}
+
+.link-button {
+    text-decoration: none;
+    background-image: linear-gradient(orange, tomato);
+    background-color: red;
+    padding: 10px 30px;
+    border-radius: 6px;
+    color: white;
+    font-weight: 800;
+
 }
